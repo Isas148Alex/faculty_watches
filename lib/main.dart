@@ -10,7 +10,6 @@ void main() async {
   try {
     await Firebase.initializeApp(
         options: const FirebaseOptions(
-      //Здесь все настройки в отдельном файле, который, по понятным причинам, не выложен в git
       apiKey: API_Data.apiKey,
       appId: API_Data.appId,
       messagingSenderId: API_Data.messagingSenderId,

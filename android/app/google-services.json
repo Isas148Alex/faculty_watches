@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "134620465720",
+    "project_id": "faculty-watches",
+    "storage_bucket": "faculty-watches.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134620465720:android:1650f6651cb9a8f250b4cd",
+        "android_client_info": {
+          "package_name": "com.example.faculty_watches"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134620465720-j79uch5pf38iqbehgd9d0cv2gf812k6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTQ61yFYvnHh5ScybElvnZ9w2fO8JzkD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134620465720-j79uch5pf38iqbehgd9d0cv2gf812k6l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "134620465720-c2o6g4cig8d7uc490fmtdeoacj6l6ef8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.flutter.flutter.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
